@@ -4,8 +4,8 @@
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">> User Description </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9; padding-top: 10px;">
-        A passionate developer crafting robust code and scalable systems.<br>
-        Transforming complex problems into elegant, user-centric solutions.
+        <b>Full-Stack AI Engineer</b><br>
+        bridging Web Architecture(Spring/Django) and LLM technologies
     </div> 
 </div>
 <br>
@@ -35,8 +35,9 @@
 <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2>
     <div align= "center"> 
-        <a href="https://aideveloper-mylee.tistory.com"> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://aideveloper-mylee.tistory.com/"> </a>
-        <a href="mailto:mylee99125@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mylee99125@gmail.com"> </a>
+        <a href="https://aideveloper-mylee.tistory.com"> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://aideveloper-mylee.tistory.com/" /> </a>
+        <a href="mailto:mylee99125@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mylee99125@gmail.com" alt="gmail" /> </a><br><br>
+        <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fmylee99125?color=gray&label=hits&size=medium" alt="hits" /></a>
     </div>
 </div>
 <br>
