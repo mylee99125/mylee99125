@@ -5,7 +5,7 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">> User Description </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9; padding-top: 10px;">
         <b>Full-Stack AI Engineer</b><br>
-        bridging Web Architecture(Spring/Django) and LLM technologies
+        bridging Web Architecture(Django/Spring) and LLM technologies
     </div> 
 </div>
 <br>
@@ -28,7 +28,6 @@
           <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
           <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-          <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black">
         </div>
 </div>
     
